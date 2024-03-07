@@ -20,7 +20,7 @@ export function Details() {
           </h1>
 
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut labore aut  ipsa necessitatibus quas id ullam, ratione non vero sit voluptates doloremque in magnam velit fuga quos itaque sapiente aspernatur. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut labore aut  ipsa necessitatibus quas id ullam, ratione non vero sit voluptates doloremque in magnam velit fuga quos itaque sapiente aspernatur. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.""
           </p>
 
           <Section title="Links úteis">
